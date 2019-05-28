@@ -1,0 +1,6 @@
+2019-05-28 11:24:38,668 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ExerciseoneApplication on LIM-5CG61169GV with PID 10896 (C:\Users\pmandara\Downloads\Raul\exerciseone-master\exerciseone\target\classes started by pmandara in C:\Users\pmandara\Downloads\Raul\exerciseone-master\exerciseone)
+2019-05-28 11:24:38,692 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-05-28 11:24:38,696 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-28 11:24:57,006 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ExerciseoneApplication in 19.191 seconds (JVM running for 22.013)
+2019-05-28 16:27:41,387 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-28 16:28:12,844 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ExerciseoneApplication in 36.68 seconds (JVM running for 42.74)
